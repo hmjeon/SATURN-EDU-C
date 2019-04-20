@@ -8,7 +8,7 @@
 [![Tag](https://img.shields.io/github/tag/hmjeon/SATURN-DISP4-pub.svg)](https://github.com/hmjeon/SATURN-DISP4-pub/tags)
 [![Last Commit](https://img.shields.io/github/last-commit/hmjeon/SATURN-DISP4-pub.svg)](https://github.com/hmjeon/SATURN-DISP4-pub)
 
-**SATURN-DISP4-pub** is part of SATURN and open-source written C/C++ that enables the finite element analysis under the plane stress condition with 4-node element.</br>
+**SATURN-DISP4-pub** is the part of the SATURN package and open-source written C/C++ that enables the finite element analysis under the plane stress condition with 4-node element.</br>
 
 ## Clone the repository
 ```git clone https://github.com/hmjeon/SATURN-DISP4-pub.git```</br>
