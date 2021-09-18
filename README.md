@@ -1,22 +1,21 @@
 ## SATURN-EDU-C</br>
 
-**SATURN** is the finite element software package for linear and nonlinear analysis. **SATURN-EDU-C** can be used for the educational purpose.</br></br>
+**SATURN** is finite element software packages written in FORTRAN 90/95 for linear finite element analysis. **EDU-C** is the C language version of the SATURN-EDU packages only for the 4-node finite element.</br></br>
 
-## Features of SATURN-EDU-C</br>
-* C version of SATURN-EDU
-* Planestress condition
-* Linear static analysis
-* 4-node finite element</br>
+## Features</br>
+* Standard four-node finite element</br>
+* Planestress condition</br>
+* Linear static analysis</br>
 * Skyline solver</br>
 * Free and open source ([GNU General Public License, version 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html/))</br></br>
 
 ## Compiling from the source code</br>
-```git clone https://github.com/hmjeon/SATURN-EDU-C.git```</br>
+```git clone https://github.com/hmjeon/SATURN-EDU.git```</br>
 
 **Requirements to compile from source:**</br>
-[Intel Fortran compiler](https://software.intel.com/en-us/fortran-compilers): Intel Parallel Studio XE 2016, 2017, 2018, or 2019</br>
+[Intel Fortran compiler](https://software.intel.com/en-us/fortran-compilers): Intel Parallel Studio XE 2017, 2018, or later</br>
 
-- Compiling the SATURN-EDU sources require [Intel Fortran](https://software.intel.com/en-us/fortran-compilers). Free Intel (R) Software Development Tools are available for qualified students, educators, academic researchers and open source contributors, see the [details](https://software.intel.com/en-us/qualify-for-free-software/).</br>
+- Compiling the SATURN-EDU-C sources require [Intel Fortran](https://software.intel.com/en-us/fortran-compilers). Free Intel (R) Software Development Tools are available for qualified students, educators, academic researchers and open source contributors, see the [details](https://software.intel.com/en-us/qualify-for-free-software/).</br>
 - The Intel Fortran compiler supports all of the features of the Fortran 90, Fortran 95, Fortran 2003 standards and most of Fortran 2008. It also supports some draft Fortran 2018 features.
 
 ## Author</br>
